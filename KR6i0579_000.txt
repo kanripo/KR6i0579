@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘修行菩薩行門諸經要集
+#+DATE: 2015-08-30 20:23:05.304875
+#+PROPERTY: JUAN 0
