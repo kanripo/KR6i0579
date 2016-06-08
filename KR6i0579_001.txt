@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 847
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0579_T_000-0935a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0579_T_001-0935a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -917,7 +917,7 @@ No. 847¶
 佛告舍¶
 利弗：「亦復如是，佛入涅槃後，世有法主、比丘、¶
 比丘尼、優婆塞、優婆夷，於是大乘經典信心¶
-供養，顯揚如來智慧聖德，恭敬尊重。既緣大¶
+供養，顯揚如來智慧聖德，敬尊重。既緣大¶
 乘深義，智慧狹劣不達其底、不解其義。後時¶
 依止聲聞修習雜學阿含經論，以名聞利養¶
 故，與諸檀越交通。若有比丘不習大乘經者，¶
